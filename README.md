@@ -16,6 +16,7 @@
 1. Search "cudnn" on Google (or https://developer.nvidia.com/cudnn)
 2. To install cudnn library, you have to sign up NVIDIA Developer
 3. Install cudnn library
+- You must download a cuDNN Library that matches the version of the CUDA toolkit.
 
 ## 5. copy & paste to cuda folder
 1. Unzip file "cuDNN library"
