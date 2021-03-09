@@ -23,4 +23,5 @@
 
 ## 6. Make sure to use GPU
 - import tensorflow and excute your code  
-![23](https://user-images.githubusercontent.com/55774589/110427723-857a8080-80eb-11eb-80da-cb993f379d37.PNG)
+-    
+  ![그림1](https://user-images.githubusercontent.com/55774589/110428166-34b75780-80ec-11eb-83eb-d5d2d1b61687.png)
