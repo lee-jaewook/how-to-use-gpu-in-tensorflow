@@ -22,5 +22,5 @@
 2. Paste to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0
 
 ## 6. Make sure to use GPU
-- import tensorflow and excute your code\n
+- import tensorflow and excute your code  
 ![23](https://user-images.githubusercontent.com/55774589/110427723-857a8080-80eb-11eb-80da-cb993f379d37.PNG)
