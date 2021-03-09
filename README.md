@@ -5,8 +5,10 @@
 
 ## 2. Check whether GPU computation is compatible
 1. Search "cuda gpu" on Google(or https://developer.nvidia.com/cuda-gpus)
-2. click CUDA-Enabled GeForce Product
-3. There is a list of graphics cards that can use the CUDA toolkit (to use gpu compute capability must be greater than 3.0)
+2. click CUDA-Enabled GeForce Product   
+   ![image](https://user-images.githubusercontent.com/55774589/110428962-87ddda00-80ed-11eb-84f4-d297a403e437.png)
+4. There is a list of graphics cards that can use the CUDA toolkit (to use gpu compute capability must be greater than 3.0)   
+   ![image](https://user-images.githubusercontent.com/55774589/110429018-a5ab3f00-80ed-11eb-8dc4-15dae6e48cd7.png)
 
 ## 3. CUDA toolkit archive
 1. Search "cuda toolkit archive" on Google
