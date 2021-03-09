@@ -9,16 +9,18 @@
 3. There is a list of graphics cards that can use the CUDA toolkit (to use gpu compute capability must be greater than 3.0)
 
 ## 3. CUDA toolkit archive
-1. Search "cuda toolkit archive" 
+1. Search "cuda toolkit archive" on Google
 2. Choose the option that suits your computer environment and install it.
 
 ## 4. Install cuDNN Library 
-1. Search "cudnn" (or https://developer.nvidia.com/cudnn)
+1. Search "cudnn" on Google (or https://developer.nvidia.com/cudnn)
 2. To install cudnn library, you have to sign up NVIDIA Developer
+3. Install cudnn library
 
 ## 5. copy & paste to cuda folder
-1. Copy the "bin", "include", "lib" folder of the cuDNN library installed in step 4.
-2. Paste to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0
+1. Unzip file "cuDNN library"
+2. Copy the "bin", "include", "lib" folder of the cuDNN library installed in step 4.
+3. Paste to C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0
 
 ## 6. Make sure to use GPU
 - import tensorflow and excute your code  
