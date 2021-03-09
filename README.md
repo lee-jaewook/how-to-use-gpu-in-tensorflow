@@ -1,5 +1,4 @@
 # how-to-use-gpu-in-tensorflow
----
 ## 1. Check graphics card 
 1) windowkey + x -> Device Manager
 2) Check the graphic card in the device manager
@@ -23,5 +22,5 @@
 
 ## 6. Make sure to use GPU
 - import tensorflow and excute your code  
--    
+- If the output is as shown in the picture below, tensorflow gpu is working.       
   ![그림1](https://user-images.githubusercontent.com/55774589/110428166-34b75780-80ec-11eb-83eb-d5d2d1b61687.png)
