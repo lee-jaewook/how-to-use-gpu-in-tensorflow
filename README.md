@@ -1,4 +1,4 @@
-# how-to-use-gpu-in-tensorflow
+# How-to-use-gpu-in-tensorflow
 ## 1. Check graphics card 
 1) windowkey + x -> Device Manager
 2) Check the graphic card in the device manager
